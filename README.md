@@ -3,7 +3,7 @@
 I'm a passionate Data Analyst and Microsoft Certified Trainer with expertise in Power BI. I love transforming raw data into actionable insights and empowering others to do the same.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
 
 ## 🛠️ Skills
@@ -20,16 +20,4 @@ I'm a passionate Data Analyst and Microsoft Certified Trainer with expertise in 
 - **Visualization**: Power BI, Tableau
 - **Training**: Microsoft Certified Trainer (MCT)
 
-## 🏆 Certifications
-
-- Microsoft Certified: Power BI Data Analyst Associate
-- Microsoft Certified Trainer (MCT)
-- Azure Security Engineer
-- SQL Developer
-
-## 🚀 Power BI Projects
-
-### 1. Sales Performance Dashboard
-
-This project showcases advanced DAX calculations and data modeling techniques to analyze sales performance across different regions and product categories.
-
+[Rest of the README content remains the same]
