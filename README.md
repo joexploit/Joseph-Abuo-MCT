@@ -46,6 +46,6 @@ This project demonstrates advanced data modeling techniques to create a customer
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/joseph-abuo-4888b593/))
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/joseph-abuo-4888b593/)
 
 
