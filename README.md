@@ -5,7 +5,6 @@ I'm a passionate Data Analyst and Microsoft Certified Trainer with expertise in 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
-
 ## 🛠️ Skills
 
 <div>
@@ -20,4 +19,33 @@ I'm a passionate Data Analyst and Microsoft Certified Trainer with expertise in 
 - **Visualization**: Power BI, Tableau
 - **Training**: Microsoft Certified Trainer (MCT)
 
-[Rest of the README content remains the same]
+## 🏆 Certifications
+
+- Microsoft Certified: Power BI Data Analyst Associate
+- Microsoft Certified Trainer (MCT)
+
+## 🚀 Power BI Projects
+
+### 1. Sales Performance Dashboard
+
+This project showcases advanced DAX calculations and data modeling techniques to analyze sales performance across different regions and product categories.
+
+
+### 2. Customer Segmentation Model
+
+This project demonstrates advanced data modeling techniques to create a customer segmentation model based on RFM (Recency, Frequency, Monetary) analysis.
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" height="200"/>
+</div>
+
+## 📚 Blog Posts
+
+- [Dynamic World of SCDs](https://congrousllc.com/the-dynamic-world-of-slowly-changing-dimensions-unraveling-the-types/)
+
+## 🌐 Connect with Me
+
+- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/joseph-abuo-4888b593/))
+
+
