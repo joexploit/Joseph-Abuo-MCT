@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Joe!
 
 I'm a passionate Data Analyst and Microsoft Certified Trainer with expertise in Power BI. I love transforming raw data into actionable insights and empowering others to do the same.
 
@@ -24,6 +24,8 @@ I'm a passionate Data Analyst and Microsoft Certified Trainer with expertise in 
 
 - Microsoft Certified: Power BI Data Analyst Associate
 - Microsoft Certified Trainer (MCT)
+- Azure Security Engineer
+- SQL Developer
 
 ## 🚀 Power BI Projects
 
